@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import {Search, ShoppingCartOutlined } from '@material-ui/icons';
-import { Badge } from '@material-ui/core';
+import {Search, ShoppingCartOutlined } from '@mui/icons-material';
+import { Badge } from '@mui/material';
 import { Link } from 'react-router-dom';
 
 const Container = styled.div `

@@ -4,7 +4,7 @@ import Offer from '../components/Offer'
 import Navbar from '../components/Navbar'
 import NewsLetter from '../components/NewsLetter'
 import Footer from '../components/Footer'
-import { Add, Remove } from '@material-ui/icons'
+import { Add, Remove } from '@mui/icons-material'
 import { Link } from 'react-router-dom'
 
 

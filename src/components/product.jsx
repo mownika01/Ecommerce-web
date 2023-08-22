@@ -1,4 +1,4 @@
-import { FavoriteBorder, Search, ShoppingCartOutlined } from '@material-ui/icons'
+import { FavoriteBorder, Search, ShoppingCartOutlined } from '@mui/icons-material'
 import React from 'react'
 import { styled } from 'styled-components'
 import { Link } from 'react-router-dom'

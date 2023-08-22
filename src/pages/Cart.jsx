@@ -3,7 +3,7 @@ import { styled } from 'styled-components'
 import Navbar from '../components/Navbar'
 import Offer from '../components/Offer'
 import Footer from '../components/Footer'
-import { Add, Remove } from '@material-ui/icons'
+import { Add, Remove } from '@mui/icons-material'
 
 const Container = styled.div`
     
